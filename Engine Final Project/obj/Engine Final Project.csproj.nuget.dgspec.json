@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\year 2\\Engine Final Project\\Engine Final Project\\Engine Final Project.csproj": {}
+    "C:\\c# Projects\\second year\\Engine-Final-Project\\Engine Final Project\\Engine Final Project.csproj": {}
   },
   "projects": {
-    "C:\\C#\\year 2\\Engine Final Project\\Engine Final Project\\Engine Final Project.csproj": {
+    "C:\\c# Projects\\second year\\Engine-Final-Project\\Engine Final Project\\Engine Final Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\year 2\\Engine Final Project\\Engine Final Project\\Engine Final Project.csproj",
+        "projectUniqueName": "C:\\c# Projects\\second year\\Engine-Final-Project\\Engine Final Project\\Engine Final Project.csproj",
         "projectName": "Engine Final Project",
-        "projectPath": "C:\\C#\\year 2\\Engine Final Project\\Engine Final Project\\Engine Final Project.csproj",
-        "packagesPath": "C:\\Users\\reyve\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\year 2\\Engine Final Project\\Engine Final Project\\obj\\",
+        "projectPath": "C:\\c# Projects\\second year\\Engine-Final-Project\\Engine Final Project\\Engine Final Project.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\c# Projects\\second year\\Engine-Final-Project\\Engine Final Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\reyve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,17 +45,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
