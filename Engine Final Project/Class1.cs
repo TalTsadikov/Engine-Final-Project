@@ -8,5 +8,6 @@ namespace Engine_Final_Project
 {
     class Class1
     {
+        int x;
     }
 }
