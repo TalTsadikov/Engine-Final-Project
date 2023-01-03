@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mttne\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mttne\\source\\repos\\Engine-Final-Project\\Engine Final Project\\Engine Final Project.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\2D game engine\\Engine-Final-Project\\Engine Final Project\\Engine Final Project.csproj",
       "projectName": "Engine Final Project",
-      "projectPath": "C:\\Users\\mttne\\source\\repos\\Engine-Final-Project\\Engine Final Project\\Engine Final Project.csproj",
-      "packagesPath": "C:\\Users\\mttne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mttne\\source\\repos\\Engine-Final-Project\\Engine Final Project\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\source\\repos\\2D game engine\\Engine-Final-Project\\Engine Final Project\\Engine Final Project.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\source\\repos\\2D game engine\\Engine-Final-Project\\Engine Final Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mttne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
