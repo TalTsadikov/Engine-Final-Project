@@ -10,5 +10,11 @@ namespace Engine_Final_Project
     {
         public Vector2 position { get; protected set; }
         public Vector2 scale { get; protected set; }
+        public enum Actor
+        {
+            Player1,
+            Player2
+        }
+        public Actor actor;
     }
 }

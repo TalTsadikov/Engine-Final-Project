@@ -25,6 +25,7 @@ namespace Engine_Final_Project
                 {
                     recTiledMap[i, j] = new RectangleTile(tilePos, initialScale);
                     tilePos = new Vector2(tilePos.x + 30, tilePos.y);
+                    Log.InfoMessage($"a rectangle tile was injected at {recTiledMap[i, j]}");
                 }
             }
         }
