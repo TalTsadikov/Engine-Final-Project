@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,16 +7,18 @@ using System.Threading.Tasks;
 
 namespace Engine_Final_Project
 {
-    public static class Tilemap
+    public class Tilemap 
     {
-        private static int rows = 8;
-        private static int cols = 8;
-        private static Vector2 initialScale = new Vector2(30, 30);
-
-        private static RectangleTile[,] recTiledMap = new RectangleTile[rows, cols];
-
-        public static void TileInjector()
+        public Tilemap(Tile tileType, int rows, int cols)
         {
+            Tile[,] grid = new Tile[rows, cols];
+            TileInjector(rows, cols, grid);
+        }
+
+
+        public void TileInjector(int rows, int cols, Tile[,] grid)
+        {
+            int indexerValue = 1;
             Vector2 tilePos = new Vector2(30, 0);
             for (int i = 0; i < rows; i++)
             {
@@ -23,11 +26,15 @@ namespace Engine_Final_Project
 
                 for (int j = 0; j < cols; j++)
                 {
-                    recTiledMap[i, j] = new RectangleTile(tilePos, initialScale);
+                    grid[i, j] = new RectangleTile(tilePos);
+                    grid[i, j].IndexerSetter(indexerValue);
+                    indexerValue++;
                     tilePos = new Vector2(tilePos.x + 30, tilePos.y);
-                    Log.InfoMessage($"a rectangle tile was injected at {recTiledMap[i, j]}");
+                    Log.InfoMessage($"A rectangle tile was injected at {grid[i, j]}.");
                 }
             }
+            Log.InfoMessage("The tile map finished configuring.");
         }
+
     }
 }

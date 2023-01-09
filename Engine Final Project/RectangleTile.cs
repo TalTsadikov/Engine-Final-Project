@@ -8,11 +8,10 @@ namespace Engine_Final_Project
 {
     public class RectangleTile : Tile
     {
-        public RectangleTile(Vector2 position, Vector2 scale)
+        public RectangleTile(Vector2 position)
         {
-            this.position = position;
-            this.scale = scale;
-            Log.InfoMessage($"A new rectangle tile was created at {this.position.x} , {this.position.y} position, with the scale of {this.scale.x},{this.scale.y}");
+            this.position = position;            
+            Log.InfoMessage($"A new rectangle tile was created at {this.position.x} , {this.position.y} position.");
         }
     }
 }

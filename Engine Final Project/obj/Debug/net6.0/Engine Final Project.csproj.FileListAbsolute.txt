@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\bin\Debug\net6.0\Engine Final Project.exe
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\bin\Debug\net6.0\Engine Final Project.deps.json
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\bin\Debug\net6.0\Engine Final Project.runtimeconfig.json
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\bin\Debug\net6.0\Engine Final Project.dll
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\bin\Debug\net6.0\Engine Final Project.pdb
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\obj\Debug\net6.0\Engine Final Project.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\obj\Debug\net6.0\Engine Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\obj\Debug\net6.0\Engine Final Project.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\obj\Debug\net6.0\Engine Final Project.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\obj\Debug\net6.0\Engine Final Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\obj\Debug\net6.0\Engine Final Project.dll
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\obj\Debug\net6.0\refint\Engine Final Project.dll
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\obj\Debug\net6.0\Engine Final Project.pdb
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\obj\Debug\net6.0\Engine Final Project.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\2D game engine\Engine-Final-Project\Engine Final Project\obj\Debug\net6.0\ref\Engine Final Project.dll

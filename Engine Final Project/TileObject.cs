@@ -28,8 +28,12 @@ namespace Engine_Final_Project
             Position = pos;
             if (actorNum == 1) actor = Actor.Player1;
             else if (actorNum == 2) actor = Actor.Player2;
-            Log.InfoMessage($"a new object was created - {this.Name}, {this.Sign}, {this.Position}, {actor}");
+            Log.InfoMessage($"A new object was created - {this.Name}, {this.Sign}, {this.Position}, {actor}");
         }
+
+        public abstract void Move(Vector2 availableMove);
+
+
 
         
     }
